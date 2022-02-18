@@ -33,6 +33,7 @@ I am a:
   - Python (Competent)
   - SQL (Rusty)
   - Matlab (Super Rusty)
+- Excel (I have convinced more than one office I am an expert __googler__)
 - Team Building/Mentoring
 - Resume Review (worked in recruiting)
 - Humor (not sure how it will play out in text)
