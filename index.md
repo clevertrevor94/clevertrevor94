@@ -3,7 +3,7 @@
 ## Intro
 Thanks for visiting my website, I will be adding projects as I work on them as well as some blog posts about work (data analyst/dev), school (ms in data analytics), and life (married and with a new dog).
 
-## [Blog Posts](clevertrevor.me/blog.html)
+## [Blog Posts](clevertrevor.me/blog/index.html)
 
 
 ## Projects
