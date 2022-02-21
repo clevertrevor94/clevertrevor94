@@ -8,7 +8,7 @@ I am a:
   - Everything
   - All the food
   - Literally my wife and I made a list of foods we'd like to cook and it turned into a multipage spreadsheet with regional sorting and carb/protein options.
-- Data
+- Data Analyst/Enthusiast
   - Analytics
   - Visualization
   - Metric creation
