@@ -1,6 +1,6 @@
 # About
 
-About me: I am 27, trying to maintain a work-life balance and trying to keep up with my interests. I thought I'd give you a summary and it turned into a bit more.
+My name is Trevor. I am 27, trying to maintain a work-life balance and trying to keep up with my interests. I thought I'd give you a summary and it turned into a bit more.
 
 ## Areas of Interest
 I am a:
