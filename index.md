@@ -1,9 +1,3 @@
----
-layout: index
-title: My Site
----
-
-
 # **Welcome to Clever Trevor**
 
 ## Intro
