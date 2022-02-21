@@ -1,7 +1,13 @@
-# **Welcome to my blog**
+---
+layout: index
+title: My Site
+---
+
+
+# **Welcome to Clever Trevor**
 
 ## Intro
-Thanks for visiting my website, I will hopefully be adding projects as I work on them and some blog posts about work (data analyst/dev), school (ms in data analytics), and life (married and with a new dog).
+Thanks for visiting my website, I will be adding projects as I work on them as well as some blog posts about work (data analyst/dev), school (ms in data analytics), and life (married and with a new dog).
 
 ## Blog Posts
 In Progress
