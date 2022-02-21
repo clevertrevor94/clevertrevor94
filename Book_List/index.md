@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "Book List"
 permalink: /Book_List/index.html
 ---
 
-# Here is the list of books I've read recently
+# Reading List
+
+Here is the list of books I've read recently
 
 ## 2022
 ### January
