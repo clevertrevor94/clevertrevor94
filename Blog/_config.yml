@@ -1,1 +1,3 @@
 theme: jekyll-theme-midnight
+paginator: 2
+paginator_num: "/blog/page:num/"
