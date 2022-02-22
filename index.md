@@ -22,7 +22,7 @@ Feel free to reach out if you have questions, comments or concerns!
 
 **Thanks for reading!**
 You can reach me at:
-- Email
-- Other?
+- Email: clevertrevor.llc@gmail.com
+- Contact Form (to be added)
 
 [About](http://clevertrevor.me/about.html)
