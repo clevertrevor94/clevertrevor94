@@ -13,6 +13,7 @@ Thanks for visiting my website, I will be adding projects as I work on them as w
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
    {% endfor %}
 </ul>
+
 ## [Blog Posts](clevertrevor.me/Blog/index.html)
 
 
