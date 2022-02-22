@@ -1,3 +1,14 @@
 theme: jekyll-theme-midnight
 # paginate: 5
 # paginate_path: "/page:num/"
+docs_list_title: Page List
+docs:
+
+- title: Blog
+  url: Blog/index.html
+
+- title: Projects
+  url: Projects/index.html
+  
+- title: Book List
+  url: Book_List/index.html
