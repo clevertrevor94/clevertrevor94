@@ -1,3 +1,12 @@
 theme: jekyll-theme-midnight
-paginator: 10
-paginator_num: "/blog/page:num/"
+# paginator: 10
+# paginator_num: "/blog/page:num/"
+
+docs_list_title: Back to Menu
+docs:
+
+- title: Home
+  url: clevertrevor.me/index.html
+  
+- title: Blog
+  url: clevertrevor.me/Blog/index.html
