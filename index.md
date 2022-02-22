@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Website Home Page"
-permalink: /index.html/
 ---
 
 # **Welcome to Clever Trevor**
